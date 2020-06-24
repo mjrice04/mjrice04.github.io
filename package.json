@@ -1,0 +1,10 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "src:dev": "vuepress dev src",
+    "src:build": "vuepress build src"
+  }
+}
