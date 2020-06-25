@@ -6,14 +6,14 @@ Most of my working hours are spent working on propreietary code for clients. If 
 * **Why:** This project was inspired by my jealousy of Spotify users getting cool summaries of their listening habits every year. I've been a dedicated user of Google Music since at least 2013. I learned there was an unoffical [Google Music API](https://github.com/simon-weber/gmusicapi) and I decided to pull my listening history to see what I could analyze. This project became more urgent when I learned Google Music was being shut down and I was not sure if I wanted to move to Youtube music. This analysis was fun but also serves as time capsule to my listening habits in my 20's.
 * **Technology Used:** googlemusicapi, requests, pandas, jupyter
 * **[Source Code](https://github.com/mjrice04/gmusic_history)**
-* [See the project](/google-music-analysis.html)
+* [See the analysis](/google-music-analysis.html)
 
 ## Collecting Internet Speedtest data
 * **What:** A simple script for running an internet speed test from the command line and collecting the results in a csv. This script leverages [speedtest-cli](https://github.com/sivel/speedtest-cli) to actually execute the speedtest.
 * **Why:** I put together this project to collect evidence that my internet speed is much slower than I am currently paying for. I run this script in the background to collect my current internet download and upload speeds every 5 minutes and append the results to an existing csv. My long term plan is to turn this data into a live dashboard powered by Dash.
 * **Technology Used:** pandas
 * **[Source Code](https://github.com/mjrice04/collect_speedtest_data)**
-* [See some example data](https://github.com/mjrice04/collect_speedtest_data/blob/master/data/speedtest.csv)
+* [See example data](https://github.com/mjrice04/collect_speedtest_data/blob/master/data/speedtest.csv)
 
 ## Pico Fermi Bagel
 * **What:** A classic (*in my opinon*) number guessing game implemented in python with click. 
