@@ -6,7 +6,7 @@ Most of my working hours are spent working on propreietary code for clients. If 
 * **Why:** This project was inspired by my jealousy of Spotify users getting cool summaries of their listening habits every year. I've been a dedicated user of Google Music since at least 2013. I learned there was an unoffical [Google Music API](https://github.com/simon-weber/gmusicapi) and I decided to pull my listening history to see what I could analyze. This project became more urgent when I learned Google Music was being shut down and I was not sure if I wanted to move to Youtube music. This analysis was fun but also serves as time capsule to my listening habits in my 20's.
 * **Technology Used:** googlemusicapi, requests, pandas, jupyter
 * **[Source Code](https://github.com/mjrice04/gmusic_history)**
-* [See the analysis](/google-music-analysis.html)
+* [See the analysis in a jupyter notebook](/google-music-analysis.html)
 
 ## Collecting Internet Speedtest data
 * **What:** A simple script for running an internet speed test from the command line and collecting the results in a csv. This script leverages [speedtest-cli](https://github.com/sivel/speedtest-cli) to actually execute the speedtest.
@@ -26,7 +26,7 @@ Most of my working hours are spent working on propreietary code for clients. If 
 * **What:** A collection of code snippets and concepts I've learned or looked up in my professional and personal coding projects.
 * **Why:** Inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til) and the movement for engineers to learn in public. I think it is important to learn in public and to dispel the myth that to be a software/data engineer you need to know every concept and piece of code. I look up snippets of code on StackOverflow and read documentation all the time! The bonus side effect of this repository is automatic documentation code snippets and concepts I might need on a future project. I hope to keep adding to this project throughout my career.
 * **Technology Used:** git
-* **[Source Code](https://github.com/mjrice04/til)**
+* **[My TIL Repo](https://github.com/mjrice04/til)**
 
 
 

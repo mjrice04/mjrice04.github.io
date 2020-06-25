@@ -3,7 +3,7 @@ I've been working as a data professional for **5 years**. Right now, I am enjoyi
 
 ## Professional History
 * **[Oliver Wyman Digital](https://www.oliverwyman.com/our-expertise/capabilities/digital.html) (March 2018 - Present)**: Oliver Wyman is a managment consulting company and I've had the opportunity to work as a data specialist on several projects. I've gotten to process and analyze millions of insurance claims, work as a backend engineer for an effort to modernize a clients data processing, and processed terabytes of financial data helping to launch new products for a financial firm.
-* **[Putnam Investments] (https://www.putnam.com/) (July 2015 - March 2018)**: I started as a Big Data Adminstrator but transitioned into a Data Engineer as the firms Data Science captabilities expanded. Worked on all different flavors of financial data and helped supprt data modernization efforts.
+* **[Putnam Investments](https://www.putnam.com/) (July 2015 - March 2018)**: I started as a Big Data Adminstrator but transitioned into a Data Engineer as the firms Data Science captabilities expanded. Worked on all different flavors of financial data and helped supprt data modernization efforts.
 
 ## Technologies I'm Comfortable With:
 * Python
