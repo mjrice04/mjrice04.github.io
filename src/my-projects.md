@@ -1,5 +1,5 @@
 # Side Projects I'm Proud of
-Most of my working hours are spent working on propreietary code for clients. If you want to get an idea of what I work on during working hours check out [About Me](/about-me.html). In my spare time I like to work on personal projects that put data to work or help me hone a particular skill set. I also like to make sure these projects are fun!
+Most of my working hours are spent working on propreietary code for clients. If you want to get an idea of what I work on during working hours check out [About Me](/about.html). In my spare time I like to work on personal projects that put data to work or help me hone a particular skill set. I also like to make sure these projects are fun!
 
 ## Google Music Listening History Analysis
 * **What:** A analysis on almost 8 years of listening to Google Music. 
